@@ -5,13 +5,7 @@ Runtime requirements
 - ruby 3.2.2
 - nodejs 18.14.0
 
-We use [asdf](https://github.com/asdf-vm/asdf) to manage runtime dependencies. You can skip this step if you manage it on your own.
-
-```
-asdf install
-```
-
-Next, install the app dependencies:
+Install the app dependencies:
 
 ```
 bundle
